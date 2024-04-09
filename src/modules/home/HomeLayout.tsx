@@ -92,7 +92,7 @@ const HomeLayout = () => {
                 <p className="text-lg ml-3 text-resume-800">
                   &ldquo;The secret to getting ahead is getting started&rdquo;
                   <br />
-                  —Mark Twean
+                  —CLA global
                 </p>
               </div>
               <Link href="/builder" passHref={true}>
